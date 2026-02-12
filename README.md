@@ -112,6 +112,34 @@ Policy defined → Misconfiguration introduced → Violation detected → Remedi
 - Drift detection and remediation  
 
 ---
+## 📸 Screenshots
+
+### VPC Architecture
+![VPC Architecture](vpc-resource-map.png)
+
+### Public and Private Subnets
+![Subnets](public-private-subnets.png)
+
+### Public Route Table Configuration
+![Route Table](public-route-table-config.png)
+
+### CloudTrail API Audit Logging
+![CloudTrail](cloudtrail-audit-logging.png)
+
+### VPC Flow Logs
+![Flow Logs](vpc-flow-logs.png)
+
+### Secure Access via SSM and VPC Interface Endpoints
+![SSM](ssm-vpc-interface-endpoints.png)
+
+### GuardDuty Threat Detection Finding
+![GuardDuty](guardduty-threat-detection.png)
+
+### AWS Config - Non Compliant Security Group
+![Non Compliant](noncompliant-security-group.png)
+
+### AWS Config - Compliance Restored
+![Compliance](compliance-validation.png)
 
 
 
